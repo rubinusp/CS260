@@ -1,2 +1,7 @@
 12
+<<<<<<< HEAD
 I am also changing it!
+=======
+34
+56
+7
